@@ -112,13 +112,9 @@
    margin-top: 20px;
    margin-left: 10px;
    z-index: -1;
-   height: 170px;
+   height: 247px;
 
  }
- .playlist:before:after{
-  height: 150px;
- }
- 
  .playlist:hover{
    overflow-y: scroll;
 
